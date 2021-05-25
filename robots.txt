@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+Sitemap: https://cutdollar.com/sitemap.xml
+Sitemap: https://www.cutdollar.com/sitemap.xml
+Disallow: /cgi-bin
+
+
