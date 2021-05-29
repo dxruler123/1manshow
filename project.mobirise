@@ -58,7 +58,7 @@
     "versionPublish": "5.3.6",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow:\nSitemap: https://cutdollar.com/sitemap.xml\nSitemap: https://www.cutdollar.com/sitemap.xml\nDisallow: /cgi-bin\n\n\n",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "mbrsiteDomain": "qfjmxwmqrz",
     "cookiesAlert": false,
     "gdpr": false,
